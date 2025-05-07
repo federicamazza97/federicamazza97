@@ -1,4 +1,4 @@
-# Hey there! I’m [Tuo Nome e Cognome]
+# Hey there! I’m Federica Mazza
 
 **Junior Social Media Manager | Digital Marketer**  
 
@@ -39,6 +39,7 @@ Google Workspace (Gmail, Drive, Docs, Sheets, Calendar, Meet)
 ## Pinned Projects
 
 Here are some of the projects I’ve worked on:  
+
 📌 Coming soon – I’m organizing and uploading my work, stay tuned!
 
 ---
