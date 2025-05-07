@@ -35,4 +35,3 @@ Attualmente alla ricerca di opportunità come Social Media Manager, Digital Mark
 
 Puoi trovare il mio profilo su [LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
 
-Se vuoi dare un’occhiata al mio portfolio visuale, puoi consultarlo qui: [Portfolio Canva](https://www.canva.com/design/DAGKujFK2sQ/uMIcLiJowMaVck8nW9yjeA/edit?utm_content=DAGKujFK2sQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
