@@ -1,37 +1,50 @@
-## Hi there 👋
+# Hey there! I’m [Tuo Nome e Cognome]
 
-# Junior Social Media Manager | Digital Marketer
+**Junior Social Media Manager | Digital Marketer**  
 
-Attualmente alla ricerca di opportunità come Social Media Manager, Digital Marketer, SEO & E-commerce Specialist, Digital Advertising.
+Based in Italy   
 
----
+Currently looking for new opportunities as a Social Media Manager, Digital Marketer, E-commerce & SEO Specialist, Digital Advertiser.  
 
-## Competenze
-
-- **Social Media**: Facebook, Instagram, TikTok, LinkedIn
-- **Copywriting**
-- **Grafica**: Canva, CapCut
-- **Microsoft Office**: Word, Excel, PowerPoint
-- **Google Workspace**: Gmail, Drive, Docs, Meet, Sheets, Calendar
-- **WordPress**: Elementor, Gutenberg, WooCommerce
-- **Meta Business**: Pixel, C-API
-- **E-commerce**: Shopify
-- **Marketing Automation**: Spoki, Brevo, ManyChat
-- **CSS**, **HTML5**
-- **SEO**
+[🔗 Profilo LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
 
 ---
 
-## Strumenti
+## Knowledge and Tools
 
-- **SEO Tools**: Google Analytics, Google Search Console
-- **Advertising**: Google Ads, Meta Ads, TikTok Ads
-- **Email Marketing**: HubSpot, Brevo, Mailchimp
-- **Analytics**: Google Data Studio, Facebook Insights
+### Social Media  
+Facebook, Instagram, TikTok, LinkedIn
+
+### Copywriting & Graphic Tools  
+Copywriting, Canva, CapCut
+
+### CMS  
+WordPress (Elementor, Gutenberg), Shopify, WooCommerce
+
+### Advertising  
+Meta Ads, Google Ads
+
+### Email Marketing & Automation  
+Brevo, Manychat, Spoki, HubSpot
+
+### Web & Data  
+Google Analytics, HTML5, CSS, SEO
+
+### Office & Cloud  
+Microsoft Office (Word, Excel, PowerPoint),  
+Google Workspace (Gmail, Drive, Docs, Sheets, Calendar, Meet)
 
 ---
 
-## Contattami
+## Pinned Projects
 
-Puoi trovare il mio profilo su [LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
+Here are some of the projects I’ve worked on:  
+📌 Coming soon – I’m organizing and uploading my work, stay tuned!
+
+---
+
+💬 Feel free to connect and collaborate!
+
+
+
 
