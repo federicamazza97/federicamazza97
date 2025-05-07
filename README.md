@@ -13,22 +13,22 @@ Currently looking for new opportunities as a Social Media Manager, Digital Marke
 ## Knowledge and Tools
 
 ### Social Media  
-Facebook, Instagram, TikTok, LinkedIn
+(Facebook, Instagram, TikTok, LinkedIn)
 
 ### Copywriting & Graphic Tools  
-Copywriting, Canva, CapCut
+(Copywriting, Canva, CapCut)
 
 ### CMS  
-WordPress (Elementor, Gutenberg), Shopify, WooCommerce
+(WordPress (Elementor, Gutenberg), Shopify, WooCommerce)
 
 ### Advertising  
-Meta Ads, Google Ads
+(Meta Ads, Google Ads)
 
 ### Email Marketing & Automation  
-Brevo, Manychat, Spoki, HubSpot
+(Brevo, Manychat, Spoki, HubSpot)
 
 ### Web & Data  
-Google Analytics, HTML5, CSS, SEO
+(Google Analytics, HTML5, CSS, SEO)
 
 ### Office & Cloud  
 Microsoft Office (Word, Excel, PowerPoint),  
