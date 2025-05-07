@@ -8,7 +8,7 @@ Attualmente alla ricerca di opportunità come Social Media Manager, Digital Mark
 
 ## Competenze
 
-- **Social Media**: Facebook, Instagram, Telegram, TikTok, YouTube, Threads, LinkedIn
+- **Social Media**: Facebook, Instagram, TikTok, LinkedIn
 - **Copywriting**
 - **Grafica**: Canva, CapCut
 - **Microsoft Office**: Word, Excel, PowerPoint
