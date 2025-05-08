@@ -42,7 +42,7 @@ Qui trovi alcuni dei progetti che ho realizzato e caricato.
 
 Il portfolio è in continuo aggiornamento: sentiti libera/o di esplorare!
 
-💬 💬 **Vuoi collaborare o semplicemente fare due chiacchiere?**  
+💬 **Vuoi collaborare o semplicemente fare due chiacchiere?**  
 [Scrivimi pure su LinkedIn!](https://www.linkedin.com/in/federica-mazza-271b02229/)
 
 
