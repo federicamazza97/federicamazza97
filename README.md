@@ -1,50 +1,48 @@
-# Hey there! I’m Federica Mazza
+# 👋 Ciao! Sono Federica Mazza
 
 **Junior Social Media Manager | Digital Marketer**  
 
 Based in Italy   
 
-Currently looking for new opportunities as a Social Media Manager, Digital Marketer, E-commerce & SEO Specialist, Digital Advertiser.  
+Attualmente alla ricerca di nuove opportunità come Social Media Manager, Digital Marketer, E-commerce & SEO Specialist o Digital Advertiser. 
 
 [🔗 Profilo LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
 
 ---
 
-## Knowledge and Tools
+## Competenze e Strumenti
 
 ### Social Media  
-(Facebook, Instagram, TikTok, LinkedIn)
+Facebook, Instagram, TikTok, LinkedIn
 
-### Copywriting & Graphic Tools  
-(Copywriting, Canva, CapCut)
+### Copywriting & Strumenti Grafici  
+Copywriting, Canva, CapCut
 
 ### CMS  
-(WordPress (Elementor, Gutenberg), Shopify, WooCommerce)
+WordPress (Elementor, Gutenberg), Shopify, WooCommerce
 
 ### Advertising  
-(Meta Ads, Google Ads)
+Meta Ads, Google Ads
 
-### Email Marketing & Automation  
-(Brevo, Manychat, Spoki, HubSpot)
+### Email Marketing & Automazione  
+Brevo, Manychat, Spoki, HubSpot
 
 ### Web & Data  
-(Google Analytics, HTML5, CSS, SEO)
+Google Analytics, HTML5, CSS, SEO
 
 ### Office & Cloud  
 Microsoft Office (Word, Excel, PowerPoint),  
-Google Workspace (Gmail, Drive, Docs, Sheets, Calendar, Meet)
+Google Workspace (Gmail, Drive, Documenti, Fogli, Calendar, Meet)
 
 ---
 
-## Pinned Projects
+## 📌Progetti in evidenza
 
-Here are some of the projects I’ve worked on:  
+Qui trovi alcuni dei progetti che ho realizzato e caricato.  
 
-📌 Coming soon – I’m organizing and uploading my work, stay tuned!
+Il portfolio è in continuo aggiornamento: sentiti libera/o di esplorare!
 
----
-
-💬 Feel free to connect and collaborate!
+💬 **Vuoi collaborare o semplicemente fare due chiacchiere?** Scrivimi pure!
 
 
 
