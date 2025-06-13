@@ -2,15 +2,15 @@
 
 **Junior Social Media Manager | Digital Marketer**  
 
-Based in Italy   
+📍 Based in Italy   
 
-Attualmente alla ricerca di nuove opportunità come Social Media Manager, Digital Marketer, E-commerce & SEO Specialist o Digital Advertiser. 
+Attualmente sono alla ricerca di nuove opportunità come Social Media Manager, Digital Marketer, Digital Advertiser. 
 
 [🔗 Profilo LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
 
 ---
 
-## Competenze e Strumenti
+## 💼 Competenze e Strumenti
 
 ### Social Media  
 Facebook, Instagram, TikTok, LinkedIn
