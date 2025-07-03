@@ -1,6 +1,6 @@
 # 👋 Ciao! Sono Federica Mazza
 
-**Junior Social Media Manager | Digital Marketer**  
+**Junior Social Media Manager | Digital Marketing Specialist**  
 
 📍 Based in Italy   
 
