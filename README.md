@@ -1,6 +1,6 @@
 # 👋 Ciao! Sono Federica Mazza
 
-**Junior Social Media Manager | Digital Marketing Specialist**  
+**Junior Social Media & Digital Marketing Specialist**  
 
 📍 Based in Italy    
 
@@ -11,10 +11,10 @@
 ## 💼 Competenze e Strumenti
 
 ### Social Media  
-Facebook, Instagram, TikTok, LinkedIn
+Facebook, Instagram, TikTok, LinkedIn, PostPickr
 
 ### Copywriting & Strumenti Grafici  
-Copywriting, Canva, CapCut
+Copywriting, Canva, CapCut, Fliki
 
 ### CMS  
 WordPress (Elementor, Gutenberg), Shopify, WooCommerce
@@ -23,7 +23,7 @@ WordPress (Elementor, Gutenberg), Shopify, WooCommerce
 Meta Ads, Google Ads
 
 ### Email Marketing & Automazione  
-Brevo, Manychat, Spoki, HubSpot
+Brevo, Mailchimp, Manychat, Spoki, HubSpot
 
 ### Web & Data  
 Google Analytics, HTML5, CSS, SEO
