@@ -37,6 +37,9 @@ Microsoft Office, Google Workspace
 
 Here you can find some of the projects I’ve created and uploaded!
 
+
+⚠️Please note: all projects are in Italian.
+
 ---
 
 ## 💬 **Let's Connect!**
