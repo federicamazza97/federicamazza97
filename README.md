@@ -8,12 +8,12 @@
 
 ---
 
-## 💼 Competenze e Strumenti
+## 💼 Skills & Tools
 
-### Social Media  
+### Social Media  Management
 Facebook, Instagram, TikTok, LinkedIn, PostPickr
 
-### Copywriting & Strumenti Grafici  
+### Copywriting & Graphic  
 Copywriting, Canva, CapCut, Fliki
 
 ### CMS  
@@ -22,7 +22,7 @@ WordPress (Elementor, Gutenberg), Shopify, WooCommerce
 ### Advertising  
 Meta Ads, Google Ads
 
-### Email Marketing & Automazione  
+### Email Marketing & Automation 
 Brevo, Mailchimp, Manychat, Spoki, HubSpot
 
 ### Web & Data  
@@ -30,7 +30,7 @@ Google Analytics, HTML5, CSS, SEO
 
 ### Office & Cloud  
 Microsoft Office (Word, Excel, PowerPoint),  
-Google Workspace (Gmail, Drive, Documenti, Fogli, Calendar, Meet)
+Google Workspace (Gmail, Drive, Docs, Sheets, Calendar, Meet)
 
 ---
 
