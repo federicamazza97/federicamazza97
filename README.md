@@ -1,10 +1,10 @@
-# 👋 Ciao! Sono Federica Mazza
+# 👋 Hi, I'm Federica Mazza
 
 **Junior Social Media & Digital Marketing Specialist**  
 
-📍 Based in Italy    
+📍 Turin, Italy     
 
-[🔗 Profilo LinkedIn](https://www.linkedin.com/in/federica-mazza-271b02229/) 
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/federica-mazza-271b02229/) 
 
 ---
 
