@@ -10,26 +10,36 @@
 
 ## 💼 Skills & Tools
 
-### Social Media  Management → Facebook, Instagram, TikTok, LinkedIn, PostPickr
+### Social Media  Management
+Facebook, Instagram, TikTok, LinkedIn, PostPickr
 
-### Copywriting & Graphic → Copywriting, Canva, CapCut, Fliki
+### Copywriting & Graphic
+Copywriting, Canva, CapCut, Fliki
 
-### CMS → WordPress (Elementor, Gutenberg), Shopify, WooCommerce
+### CMS
+WordPress (Elementor & Gutenberg), Shopify, WooCommerce
 
-### Advertising  → Meta Ads, Google Ads
+### Advertising
+Meta Ads, Google Ads
 
-### Email Marketing & Automation → Brevo, Mailchimp, Manychat, Spoki, HubSpot
+### Email Marketing & Automation
+Brevo, Mailchimp, Manychat, Spoki, HubSpot
 
-### Web & Data → Google Analytics, HTML5, CSS, SEO
+### Web & Data
+Google Analytics, HTML5, CSS, SEO
 
-### Office & Cloud → Microsoft Office, Google Workspace 
+### Office & Cloud 
+Microsoft Office, Google Workspace 
+
 ---
 
 ## 📌Featured Projects
 
-Here you can find some of the projects I’ve created and uploaded.
+Here you can find some of the projects I’ve created and uploaded!
 
-💬 **Let’s Connect**
+---
+
+## 💬 **Let's Connect!**
 
 🚀 I'm always open to new opportunities!  
 
