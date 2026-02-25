@@ -16,6 +16,9 @@ Facebook, Instagram, TikTok, LinkedIn, PostPickr
 ### Copywriting & Graphic
 Copywriting, Canva, CapCut, Fliki
 
+### AI Tools
+ChatGPT, Copilot, Gemini
+
 ### CMS
 WordPress (Elementor & Gutenberg), Shopify, WooCommerce
 
