@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Federica Mazza
 
-**Junior Social Media & Digital Marketing Specialist**  
+**Social Media & Digital Marketing Specialist**  
 
 📍 Turin, Italy     
 
